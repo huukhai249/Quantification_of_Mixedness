@@ -144,9 +144,6 @@ Contributions are welcome. Suggested workflow:
 
 Please follow consistent code style (PEP8) and include unit tests for new functionality.
 
-## License
-
-Specify your license (e.g., MIT). If you don't have a license file yet, add one to clarify reuse terms.
 
 ## Acknowledgements & References
 
@@ -155,4 +152,3 @@ Specify your license (e.g., MIT). If you don't have a license file yet, add one 
 
 ## Contact
 
-If you want me to tailor this README to match your repo exactly (including correct module paths, example commands, and dependency list), share the main script or a short list of the repository files, and I will update the README accordingly.
